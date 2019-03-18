@@ -1,4 +1,4 @@
-package com.forezp;
+package com.after00;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;

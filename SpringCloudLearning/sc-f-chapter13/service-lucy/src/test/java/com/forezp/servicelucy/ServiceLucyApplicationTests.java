@@ -1,4 +1,4 @@
-package com.forezp.servicelucy;
+package com.after00.servicelucy;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

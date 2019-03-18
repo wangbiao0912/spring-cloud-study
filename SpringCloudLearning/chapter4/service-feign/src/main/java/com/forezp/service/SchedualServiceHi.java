@@ -1,4 +1,4 @@
-package com.forezp.service;
+package com.after00.service;
 
 import org.springframework.cloud.netflix.feign.FeignClient;
 import org.springframework.web.bind.annotation.RequestMapping;

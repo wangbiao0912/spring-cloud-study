@@ -9,19 +9,23 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>sc-f-chapter1</name>
+  <name>springcould_House</name>
   <description>Demo project for Spring Boot</description>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>2.1.3</version>
+    <version>2.1.3.RELEASE</version>
     <relativePath/>
   </parent>
 
   <modules>
     <module>eureka-server</module>
-    <module>service-hi</module>
+    <module>service-hi-8762</module>
+    <module>service-hi-8763</module>
+    <module>service-ribbon</module>
+    <module>serice-feign</module>
+    <module>service-zuul</module>
   </modules>
 
   <properties>

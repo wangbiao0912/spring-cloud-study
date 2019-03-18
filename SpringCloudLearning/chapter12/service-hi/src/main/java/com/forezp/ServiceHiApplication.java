@@ -1,4 +1,4 @@
-package com.forezp;
+package com.after00;
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import org.springframework.beans.factory.annotation.Value;

@@ -1,6 +1,6 @@
-package com.forezp.servicefeign.clients.fallback;
+package com.after00.servicefeign.clients.fallback;
 
-import com.forezp.servicefeign.clients.SchedualServiceHi;
+import com.after00.servicefeign.clients.SchedualServiceHi;
 import org.springframework.stereotype.Component;
 
 /**

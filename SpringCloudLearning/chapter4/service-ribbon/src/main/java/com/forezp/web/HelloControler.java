@@ -1,6 +1,6 @@
-package com.forezp.web;
+package com.after00.web;
 
-import com.forezp.service.HelloService;
+import com.after00.service.HelloService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

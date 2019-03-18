@@ -1,4 +1,4 @@
-package com.forezp.service;
+package com.after00.service;
 
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;

@@ -1,4 +1,4 @@
-package com.forezp.adminserver;
+package com.after00.adminserver;
 
 import de.codecentric.boot.admin.server.config.AdminServerProperties;
 import org.springframework.context.annotation.Configuration;

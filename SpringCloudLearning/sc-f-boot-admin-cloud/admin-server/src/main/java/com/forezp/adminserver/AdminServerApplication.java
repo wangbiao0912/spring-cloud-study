@@ -1,4 +1,4 @@
-package com.forezp.adminserver;
+package com.after00.adminserver;
 
 import de.codecentric.boot.admin.server.config.EnableAdminServer;
 import org.springframework.boot.SpringApplication;

@@ -1,4 +1,4 @@
-package com.forezp.filter;
+package com.after00.filter;
 
 import com.netflix.zuul.ZuulFilter;
 import org.springframework.beans.factory.annotation.Autowired;

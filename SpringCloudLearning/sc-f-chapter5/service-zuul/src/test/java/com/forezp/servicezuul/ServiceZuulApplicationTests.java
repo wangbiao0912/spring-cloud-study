@@ -1,4 +1,4 @@
-package com.forezp.servicezuul;
+package com.after00.servicezuul;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

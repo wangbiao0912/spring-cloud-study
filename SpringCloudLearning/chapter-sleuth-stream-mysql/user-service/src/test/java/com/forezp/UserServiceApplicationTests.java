@@ -1,4 +1,4 @@
-package com.forezp;
+package com.after00;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

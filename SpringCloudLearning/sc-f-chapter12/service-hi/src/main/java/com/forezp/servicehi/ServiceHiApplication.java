@@ -1,4 +1,4 @@
-package com.forezp.servicehi;
+package com.after00.servicehi;
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import org.springframework.beans.factory.annotation.Value;

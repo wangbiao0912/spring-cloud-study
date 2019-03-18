@@ -1,4 +1,4 @@
-package com.forezp.serviceribbon;
+package com.after00.serviceribbon;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

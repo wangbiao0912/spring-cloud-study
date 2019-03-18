@@ -1,4 +1,4 @@
-package com.forezp;
+package com.after00;
 
 import brave.sampler.Sampler;
 import org.springframework.beans.factory.annotation.Autowired;

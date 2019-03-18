@@ -1,4 +1,4 @@
-package com.forezp.serviceturbine;
+package com.after00.serviceturbine;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

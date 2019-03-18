@@ -1,4 +1,4 @@
-package com.forezp.servicefeign;
+package com.after00.servicefeign;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

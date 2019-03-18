@@ -1,4 +1,4 @@
-package com.forezp.adminserver;
+package com.after00.adminserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

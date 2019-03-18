@@ -1,4 +1,4 @@
-package com.forezp.serviceribbon.service;
+package com.after00.serviceribbon.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

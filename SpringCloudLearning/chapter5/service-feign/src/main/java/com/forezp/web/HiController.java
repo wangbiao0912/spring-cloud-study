@@ -1,6 +1,6 @@
-package com.forezp.web;
+package com.after00.web;
 
-import com.forezp.service.SchedualServiceHi;
+import com.after00.service.SchedualServiceHi;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

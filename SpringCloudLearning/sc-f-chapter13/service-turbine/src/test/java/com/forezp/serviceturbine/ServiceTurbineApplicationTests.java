@@ -1,4 +1,4 @@
-package com.forezp.serviceturbine;
+package com.after00.serviceturbine;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

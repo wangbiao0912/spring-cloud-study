@@ -1,4 +1,4 @@
-package com.forezp.servicefeign.clients;
+package com.after00.servicefeign.clients;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.RequestMapping;

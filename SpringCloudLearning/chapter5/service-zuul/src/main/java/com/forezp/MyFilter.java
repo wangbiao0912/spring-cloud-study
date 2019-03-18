@@ -1,4 +1,4 @@
-package com.forezp;
+package com.after00;
 
 import com.netflix.zuul.ZuulFilter;
 import com.netflix.zuul.context.RequestContext;

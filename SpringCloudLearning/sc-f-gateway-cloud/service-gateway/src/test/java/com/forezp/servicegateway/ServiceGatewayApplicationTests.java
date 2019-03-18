@@ -1,4 +1,4 @@
-package com.forezp.servicegateway;
+package com.after00.servicegateway;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
