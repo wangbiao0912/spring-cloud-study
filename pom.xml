@@ -21,8 +21,12 @@
 
   <modules>
     <module>eureka-server</module>
+    <module>eureka-server-8769</module>
     <module>service-hi-8762</module>
     <module>service-hi-8763</module>
+    <module>service-hi</module>
+    <module>service-turbine</module>
+    <module>service-lucy</module>
     <module>service-ribbon</module>
     <module>serice-feign</module>
     <module>service-zuul</module>
